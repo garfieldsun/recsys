@@ -1,0 +1,2 @@
+1、根据何向南教授的《Neural collaborative filtering》，代码用tensorflow进行了改写，只写了最后的NeuMF模块，剩余模块可在NeuMF上进行删减
+2、数据集为自用数据集，只是使用了数据集中的user信息，item信息和时间信息，因此换movielens的话只需要更改prodata.py这个数据读入的预处理数据部分
